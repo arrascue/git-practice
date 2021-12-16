@@ -1,2 +1,7 @@
-Hola
+1. All of this belongs to one commit
+2. How interesting is git
+3. Practicing rebase interactive
 
+4. I will add three additional line. This is the first one
+5. This is the second one
+6. This is the third one
